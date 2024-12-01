@@ -160,7 +160,7 @@ Please don't hesitate to **join our team** on [Discord][discord] if you have any
 </blockquote>
 
 Sponsors are **the ones who make this project possible**.<br/>
-They help us to have the necessary resources for Nanocl to keep it alive and to improve it further.<br/>
+They help us to have the necessary resources for Nanocl, so we're able to keep it alive & of course to improve it further.<br/>
 If you want to **become a sponsor**, please use the GitHub Sponsor button.<br/>
 
 People that sponsor us will have their **name** or **logo displayed here**, and will have access to a **special role** on our *[Discord][discord]*.
