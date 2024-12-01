@@ -39,7 +39,7 @@ Nanocl will introduce the **next paradigm** for **Platform Engineers** by provid
 
 ## Installation
 
-We are already compatible with **Debian/Ubuntu, MacOS & Windows**, just jump to [Installation guide][nanocl_install_guide].<br/>
+We are already compatible with **Linux**, **MacOS** & **Windows**, just jump to [Installation guide][nanocl_install_guide].<br/>
 Please bare with us, Nanocl is currently more than just on the cutting edge..
 
 ## Latest news
