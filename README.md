@@ -5,8 +5,7 @@
   <h6>Orchestrate like never before. K8s reimagined.</h6>
   <p align="center">
     <a href="https://next-hat.com/nanocl"><b>Why</b></a> •
-    <a href="https://docs.next-hat.com/manuals/nanocl/install/overview"><b>Install</b></a> •
-    <a href="https://discord.gg/WV4Aac8uZg" target="_blank"><b>Discord</b></a> •
+    <a href="https://docs.next-hat.com/manuals/nanocl/install/overview"><b>Quickstart</b></a> •
     <a href="https://x.com/next_hat" target="_blank"><b>𝕏</b></a>
   </p>
   <p>
@@ -14,6 +13,7 @@
 [![Tests](https://github.com/next-hat/nanocl/actions/workflows/tests.yml/badge.svg)](https://github.com/next-hat/nanocl/actions/workflows/tests.yml)
 [![Clippy](https://github.com/next-hat/nanocl/actions/workflows/clippy.yml/badge.svg)](https://github.com/next-hat/nanocl/actions/workflows/clippy.yml)
 [![codecov](https://codecov.io/gh/next-hat/nanocl/branch/nightly/graph/badge.svg?token=4I60HOW6HM)](https://codecov.io/gh/next-hat/nanocl)
+[![Discord](https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat)](https://discord.gg/WV4Aac8uZg)
 
   </p>
 </div>
@@ -25,24 +25,24 @@ The developing ecosystem provides an **easy** solution for **local** development
 The architecture of Nanocl enables a **seamless deployment** to **production** among other innovations.<br/>
 <blockquote>
  <span>
-    You could build a K8s within Nanocl. But we are quite sure you wouldn't want to..
+    In a nutshell we're solving known K8s memes (among other things).
  </span>
 </blockquote>
 
 Nanocl will introduce the **next paradigm** for **Platform Engineers** by providing ground breaking cloud-native architectural innovations, best-in-class security, while reducing operational costs with e.g. 🦀 **Rust** based efficiency.
+
+## Quickstart
+
+We are already compatible with **Linux**, **MacOS** & **Windows**, just jump to [Installation guide][nanocl_install_guide].<br/>
+Please bare with us, Nanocl is currently more than just on the cutting edge..
+
+## Latest news
 
 <blockquote>
  <span>
     Who said that K8s is more than a perfect platform for application workloads?
  </span>
 </blockquote>
-
-## Installation
-
-We are already compatible with **Linux**, **MacOS** & **Windows**, just jump to [Installation guide][nanocl_install_guide].<br/>
-Please bare with us, Nanocl is currently more than just on the cutting edge..
-
-## Latest news
 
 - **Blog**: [Automating deployment with GitHub Actions](https://docs.next-hat.com/blog/automating-deployment-with-github-actions-and-nanocl) on 24.11.2024
 - **Release**: [End to End TLS encryption and first step for network meshing](https://docs.next-hat.com/blog/nanocl-0.16) on 01.11.2024 
@@ -83,6 +83,12 @@ Resources:
 ```
 
 ## Architecture
+
+<blockquote>
+ <span>
+    You could build a K8s within Nanocl. But we are quite sure you wouldn't want to..
+ </span>
+</blockquote>
 
 Nanocl is designed as a **microservice** architecture, consisting of multiple components running as **containers**, including the **Nanocl Daemon** itself.
 The following components will be installed during `nanocl install` and are required to ensure full Nanocl functionalities:
