@@ -1,6 +1,6 @@
 <div align="center">
   <img width="142" height="142" src="https://download.next-hat.com/ressources/images/logo.png" >
-  <h2>NanoCl</h2>
+  <h2>Nanocl</h2>
   <h4>Just Develop, Deploy.</h4>
   <h6>Orchestrate like never before. K8s reimagined.</h6>
   <p align="center">
@@ -18,30 +18,29 @@
   </p>
 </div>
 
-**NanoCl** is an open-source distributed system designed to revolutionize cloud-native workflows from the ground up.
+**Nanocl** is an open source distributed system designed to revolutionize **cloud native** from the ground up.
 
-The developing ecosystem provides an **easy solution** for **local development**, avoiding common issues like CORS & cookies when working with **complex microservices**.
+The developing ecosystem provides an **easy** solution for **local** development, avoiding common issues like CORS & cookies when working with **complex microservices**.
 
-The base architecture of **NanoCl** enables a **seamless deployment** to **production** among other innovations.<br/>
+The architecture of Nanocl enables a **seamless deployment** to **production** among other innovations.<br/>
 <blockquote>
  <span>
-    "You could build a K8s within NanoCl. But we are quite sure you wouldn't want to.."
+    You could build a K8s within Nanocl. But we are quite sure you wouldn't want to..
  </span>
 </blockquote>
 
-**NanoCl** will introduce the **next paradigm** for **Platform Engineers** wordwide by providing ground breaking cloud-native architectural innovations, best-in-class security, while reducing operational costs with 🦀 **Rust** based **efficiency**.
+Nanocl will introduce the **next paradigm** for **Platform Engineers** by providing ground breaking cloud-native architectural innovations, best-in-class security, while reducing operational costs with e.g. 🦀 **Rust** based efficiency.
 
 <blockquote>
  <span>
-    "Who said that K8s is more than a perfect platform for application workloads?"
+    Who said that K8s is more than a perfect platform for application workloads?
  </span>
 </blockquote>
 
 ## Installation
 
-We are already compatible with **Debian/Ubuntu, MacOS & Windows**, just jump to [Installation guide][nanocl_install_guide].
-
-⚠️ Please bare with us, **NanoCl** is currently more than just on the cutting edge..
+We are already compatible with **Debian/Ubuntu, MacOS & Windows**, just jump to [Installation guide][nanocl_install_guide].<br/>
+Please bare with us, Nanocl is currently more than just on the cutting edge..
 
 ## Latest news
 
@@ -53,7 +52,7 @@ We are already compatible with **Debian/Ubuntu, MacOS & Windows**, just jump to 
 
 ## Usage
 
-**NanoCl** is designed to be **easy** to **setup** & **operate** by mostly using **state files** (`yaml`, `toml` or `json`).
+Nanocl is designed to be **easy** to setup, use & maintain by mostly using **Statefiles** (`yaml`, `toml` or `json`).<br/>
 Below is an **example** which is used to **deploy** our own [Documentation][documentation].
 
 • `Apply` a state to the cluster via `nanocl state apply -s path|url`<br/>
@@ -85,8 +84,8 @@ Resources:
 
 ## Architecture
 
-**NanoCl** is designed as a **microservice** architecture, consisting of multiple components running as **containers**, including the **NanoCl Daemon** itself.
-The following components will be installed during `nanocl install` and are required to ensure full **NanoCl** functionalities:
+Nanocl is designed as a **microservice** architecture, consisting of multiple components running as **containers**, including the **Nanocl Daemon** itself.
+The following components will be installed during `nanocl install` and are required to ensure full Nanocl functionalities:
 
 - `nstore` to **save** cluster **state**
 - `ndaemon` as **REST API** to manage everything
@@ -96,14 +95,14 @@ The following components will be installed during `nanocl install` and are requi
 - `ndns` to manage the dns entries for the **containers** and **virtual machines** (optional)
 - `ncdns` to update dns entries based on the current state (optional)
 
-To learn more about **NanoCl**, take a look at the following resources:
+To learn more about Nanocl, take a look at the following resources:
 
 - [Overview][nanocl_overview]
 - [Get Started][nanocl_get_started]
 - [CLI References][nanocl_cli_ref]
 - [Daemon References][nanocl_daemon_ref]
 
-Simplified version of **NanoCl** architecture for a single node:
+Simplified version of Nanocl architecture for a single node:
 
 <div align="center">
   <img src="./doc/architecture.png" />
@@ -133,7 +132,7 @@ Simplified version of **NanoCl** architecture for a single node:
 
 <blockquote>
  <span>
-  Are you able to 🪄🦀 or want to help in other ways?
+  Little by little, a little becomes a lot.
  </span>
 </blockquote>
 
@@ -155,8 +154,8 @@ Please don't hesitate to **join our team** on [Discord][discord] if you have any
 </blockquote>
 
 Sponsors are **the ones who make this project possible**.<br/>
-They help us to keep the project alive and to improve it.<br/>
-If you want to **become a sponsor**, you can do so by **clicking** on the **sponsor button**. <br/>
+They help us to have the necessary resources for Nanocl to keep it alive and to improve it further.<br/>
+If you want to **become a sponsor**, please use the GitHub Sponsor button.<br/>
 
 People that sponsor us will have their **name** or **logo displayed here**, and will have access to a **special role** on our *[Discord][discord]*.
 
@@ -204,7 +203,7 @@ People that sponsor us will have their **name** or **logo displayed here**, and 
 
 <blockquote>
  <span>
-    We are just at the beginning of a new paradigm shift.. 🛫
+    We are just at the beginning of a new paradigm shift..
  </span>
 </blockquote>
 
