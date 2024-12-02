@@ -162,11 +162,13 @@ Sponsors are **the ones who make this project possible**.<br/>
 They help us to have the necessary resources for Nanocl, so we're able to keep it alive & of course to improve it further.<br/>
 If you want to **become a sponsor**, please use the GitHub Sponsor button.<br/>
 
-People that sponsor us will have their **name** or **logo displayed here**, and will have access to a **special role** on our *[Discord][discord]*.
+People that sponsor us will have their **name** or **logo displayed here**, and will have access to a **special role** on our *[Discord][discord]*.<br/><br/>
 
-**Our very kind sponsors:**
+<p align="center">
+  <b>Our very kind sponsors</b>
+</p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/mamaicode">
@@ -203,6 +205,7 @@ People that sponsor us will have their **name** or **logo displayed here**, and 
     </td>
   </tr>
 </table>
+<br/>
 
 ## Star History
 
