@@ -20,12 +20,11 @@
 
 **Nanocl** is an open source distributed system designed to revolutionize **cloud native** from the ground up.
 
-The developing ecosystem provides an **easy** solution for **local** development, avoiding common issues like CORS & cookies when working with **complex microservices**.
+The developing ecosystem provides an comprehensive solution for **localhost** development headache, avoiding common issues like CORS & cookies when working with **complex microservices**. It **reduces** infrastructure **complexity** while delivering **seamless deployment** to **production** among other innovations.
 
-The architecture of Nanocl enables a **seamless deployment** to **production** among other innovations.<br/>
 <blockquote>
  <span>
-    In a nutshell we're solving known K8s memes (among other things).
+    In a nutshell one could say we're solving known K8s memes.
  </span>
 </blockquote>
 
@@ -33,7 +32,7 @@ Nanocl will introduce the **next paradigm** for **Platform Engineers** by provid
 
 ## Quickstart
 
-We are already compatible with **Linux**, **MacOS** & **Windows**, just jump to [Installation guide][nanocl_install_guide].<br/>
+We are already compatible with **Linux**, **MacOS** & **Windows**, just jump to our [Installation guide][nanocl_install_guide].<br/>
 Please bare with us, Nanocl is currently more than just on the cutting edge..
 
 ## Latest news
